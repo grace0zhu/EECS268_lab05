@@ -1,2 +1,2 @@
-# college_labs
-labs from EECS 1 and 2
+# EECSlab05
+lab 5 from EECS 268
