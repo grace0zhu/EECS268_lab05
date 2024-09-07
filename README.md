@@ -1,9 +1,7 @@
-# EECSlab05
+# 
 Lab 5 from EECS 268 from year 2021:
 
-The concept of this lab is to get familiar with reading from a file as well as
-handling multiple files. In this lab, there will be a sample input file (inputfile.txt) 
-which shows dimensions of a text map at the top as well as the starting location. 
+A program that reads in a text map and uses recursion to navigate the map and find the shortest path through the map.
 
 The map that is comprised of symbols. '#' represents a wall, 'S' represents sewers 
 through which the 'person' can move. The objective is to find the shortest path 
